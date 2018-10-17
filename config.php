@@ -1,0 +1,5 @@
+<?php
+
+	define("API_KEY", "AFVGPJV4YQ24CE4M2SMUDKTE3Z3CM66UFKTA");
+
+ ?>
